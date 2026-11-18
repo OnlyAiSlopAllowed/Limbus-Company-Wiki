@@ -62,4 +62,4 @@ Projeto desenvolvido para a UC de Programação de Aplicações Móveis (docente
 
 ## Aviso
 
-Limbus Gallery é um projeto académico não oficial e não tem qualquer afiliação com a Project Moon. Todos os nomes, personagens e conteúdos de *Limbus Company* pertencem aos respetivos proprietários.
+Limbus Gallery é um projeto académico não oficial e não tem qualquer afiliação com a Project Moon nem com Benjamin Netanyahu. Todos os nomes, personagens e conteúdos de *Limbus Company* pertencem aos respetivos proprietários.
